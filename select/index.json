@@ -1,0 +1,64 @@
+{
+  "version": 1,
+  "base_track": "アンパンマンのマーチ",
+  "base_artist": "ドリーミング",
+  "createdAt": "2025-12-05T20:14:09.194583Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "アンパンマンのマーチ",
+      "artist": "Dreaming",
+      "has_synced": true,
+      "path": "select/01_アンパンマンのマーチ_Dreaming.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "アンパンマンのマーチ",
+      "artist": "Dreaming",
+      "has_synced": true,
+      "path": "select/02_アンパンマンのマーチ_Dreaming.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "アンパンマンのマーチ",
+      "artist": "ドリーミング",
+      "has_synced": true,
+      "path": "select/03_アンパンマンのマーチ_ドリーミング.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "アンパンマンのマーチ ～ドリーミングとオーケストラ",
+      "artist": "Dreaming",
+      "has_synced": true,
+      "path": "select/04_アンパンマンのマーチ_~ドリーミングとオーケストラ_Dreaming.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "アンパンマンのマーチ (NTV｢それいけ!アンパンマン｣OPテーマ)",
+      "artist": "ドリーミング",
+      "has_synced": true,
+      "path": "select/05_アンパンマンのマーチ_(NTV「それいけ!アンパンマン」OPテーマ)_ドリーミング.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "アンパンマンのマーチ",
+      "artist": "ドリーミング",
+      "has_synced": true,
+      "path": "select/06_アンパンマンのマーチ_ドリーミング.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "アンパンマンのマーチ",
+      "artist": "ドリーミング",
+      "has_synced": false,
+      "path": "select/pl_01_アンパンマンのマーチ_ドリーミング.txt"
+    }
+  ]
+}
